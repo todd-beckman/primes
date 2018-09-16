@@ -1,6 +1,8 @@
 # Primes
 
-A simple command-line prime checker.
+A simple command-line prime checker. It uses an academic approach
+rather than a highly optimized one. I might try to optimize this
+later.
 
 It can confirm most prime numbers within max int64 in 50ms or less
 (on my machine). It does not support Big Integers sadly.
